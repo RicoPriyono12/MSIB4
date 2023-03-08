@@ -1,0 +1,4 @@
+1. pertama kita tambahan kan href pada profil
+2. membuat sidebar.html
+3. color hunt
+4. Menambahkan footer
